@@ -1,4 +1,4 @@
-# Fintech Application – Frontend Prototype
+# EIBS x INNVOICEX – Frontend Prototype
 
 ## Overview
 This repository contains the frontend prototype of a fintech application developed as part of a hackathon submission. The project demonstrates the user interface, user flow, and core product vision through a functional web-based frontend.
